@@ -38,3 +38,15 @@ The device is based on PCB designed by me thru hit and trial of various electron
 
 
 This Device used ESP32 S3 at prototype level and was converted to STM32 later during production level . 
+
+
+
+## Important scope and disclaimer
+
+This is a software engineering portfolio description. It is not medical-device documentation, clinical guidance, or instructions for operating, reproducing, calibrating, or validating a diagnostic instrument. The excerpts are not intended for deployment. No clinical performance or regulatory compliance claim is made.
+
+Some device details and original source code may be proprietary. Only publish code and diagrams that you are authorized to share. Do not include patient data, credentials, internal protocol secrets, production pin maps, or confidential schematics.
+
+## Technologies
+
+C · ESP-IDF · FreeRTOS · UART · GPIO · MCPWM · I²C · Embedded Systems
