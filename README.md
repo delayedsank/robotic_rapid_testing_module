@@ -29,7 +29,7 @@ As this system had many components like high power heating equipment,  NEMA step
 -
 
 
-
+I USE MORE OF VISUAL DETAILS OF THE PROJECT AS THIS PROJECT IS PROTECTED UNDER HEAVY IP / NDA ENLOSURES ,WHICH IS COMMON FOR EMBEDDED / R&D ENGINEERS 
 
 
 
