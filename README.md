@@ -1,7 +1,7 @@
 # robotic_rapid_testing_module
 This project was basically for scientists who discovered rapid algorithm for a potent disease which would be stationed at airports to check possible contaminated passengers in a quick test.  
 
-I headed the project as Project Manger and headed various teams from 3D designers to Purchase Teams. 
+I headed the project as Project Manger working on device system and headed various miscellaneous teams from 3D designers to Purchase Teams. 
 
 Out of Entire project , I share embedded control of a medical instrument's electromechanical subsystems, which involves High Power AC Control using Zero detection of Sinusoidal waves.
 
